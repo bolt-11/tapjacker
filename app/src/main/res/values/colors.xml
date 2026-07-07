@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Brand -->
+    <color name="brand_primary">#10B981</color>
+    <color name="brand_primary_dark">#047857</color>
+    <color name="on_brand_primary">#FFFFFF</color>
+
+    <!-- Background -->
+    <color name="surface">#18181B</color>
+    <color name="card_surface">#27272A</color>
+    <color name="surface_variant">#3F3F46</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FAFAFA</color>
+    <color name="text_secondary">#A1A1AA</color>
+
+    <!-- Status -->
+    <color name="danger">#EF4444</color>
+    <color name="success">#22C55E</color>
+
+    <!-- Decoy Button Colors -->
+    <color name="decoy_red">#EF4444</color>
+    <color name="decoy_orange">#F59E0B</color>
+    <color name="decoy_green">#22C55E</color>
+    <color name="decoy_blue">#3B82F6</color>
+    <color name="decoy_purple">#8B5CF6</color>
+
+</resources>

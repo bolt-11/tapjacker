@@ -3,7 +3,7 @@
 
   # Tapjacker
 
-  A hands-on Android demo of **tapjacking** (UI redressing): configure a floating decoy
+  A hands-on Android demo of **Overlay Attack (Tapjacking)**: configure a floating decoy
   button, drag it into place, lock it, and watch taps pass straight through to whatever
   is underneath — the same technique real overlay attacks rely on.
 </div>

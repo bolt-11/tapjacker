@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/drawable-nodpi/app_logo.png" width="160" alt="Tapjacker logo" />
+  <img src="app/src/main/res/drawable-nodpi/app_logo2.png" width="160" alt="Tapjacker logo" />
 
   # Tapjacker
 

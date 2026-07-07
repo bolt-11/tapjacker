@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/drawable-nodpi/app_logo.png" width="96" alt="Tapjacker logo" />
+  <img src="app/src/main/res/drawable-nodpi/app_logo.png" width="160" alt="Tapjacker logo" />
 
   # Tapjacker
 
@@ -14,12 +14,12 @@
 <tr>
 <td width="33%"><img src="docs/screenshots/main_screen.png" alt="Main configuration screen" /></td>
 <td width="33%"><img src="docs/screenshots/overlay_active.png" alt="Decoy overlay floating over the app" /></td>
-<td width="33%"><img src="docs/screenshots/overlay_over_home.png" alt="Decoy overlay floating over the home screen" /></td>
+<td width="33%"><img src="docs/screenshots/overlay_vs_target_app.png" alt="Decoy overlay tricking a real target app" /></td>
 </tr>
 <tr>
 <td align="center"><sub>Configuration screen</sub></td>
-<td align="center"><sub>Decoy overlay floating over the app</sub></td>
-<td align="center"><sub>Overlay floats above <em>any</em> app, even the home screen</sub></td>
+<td align="center"><sub>Decoy overlay ("Claim your voucher") floating live</sub></td>
+<td align="center"><sub>Positioned over a real target app (OWASP MASTG) — the decoy hides its actual "Confirm Payment" button</sub></td>
 </tr>
 </table>
 

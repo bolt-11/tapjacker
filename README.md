@@ -23,6 +23,8 @@
 </tr>
 </table>
 
+---
+
 Tapjacking abuses Android's "display over other apps" permission
 (`SYSTEM_ALERT_WINDOW`) to draw a decoy on top of a victim app's real UI. Once
 positioned, the overlay is marked **not touchable**

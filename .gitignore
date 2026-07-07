@@ -13,4 +13,5 @@
 .externalNativeBuild
 .cxx
 .claude/
+/dist
 local.properties
